@@ -23,4 +23,7 @@ Texto con el proceso para realizar el platillo
 
 Recuerda subir tus cambios a github, usando git push
 
-## No es necesario que crees una rama en esta ocasión trabaja sobre la rama principal de tu fork. 
+## No es necesario que crees una rama en esta ocasión trabaja sobre la rama principal de tu fork.
+
+### Comentarios del editor ####
+Se modificó Receta.html para agregar id, class y se quitó algunas divisiones por motivos estéticos, por otro lado se añadió sty_00_Receta.css, para darle colores. 30/04/2026 - 11:15 hrs 
